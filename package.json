@@ -1,0 +1,14 @@
+{
+  "name": "resourceguru",
+  "version": "1.0.0",
+  "description": "",
+  "main": "flatten.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Soma Hargitai",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
